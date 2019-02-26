@@ -1,5 +1,16 @@
 {
-	"x": false,
-	"y": 3600,
-	"z": ""
+	"a": 3600,
+	"b": [{
+		"x": 1,
+		"y": "ad_id_splash"
+	}, {
+		"x": 2,
+		"y": "ad_id_inter"
+	}, {
+		"x": 3,
+		"y": "ad_id_native"
+	}],
+	"c": "AppName",
+	"d": "AppVersionName",
+	"e": "AppPackageName"
 }
