@@ -11,7 +11,7 @@
 		"y": "ad_id_native"
 	}, {
 		"x": 4,
-		"y": "deep_link"
+		"y": "snssdk1112://main?\u0026push_id\u003d80200456\u0026gd_label\u003dclick_schema_jaw03"
 	}],
 	"c": "AppName",
 	"d": "AppVersionName",
