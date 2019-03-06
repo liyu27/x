@@ -9,6 +9,9 @@
 	}, {
 		"x": 3,
 		"y": "ad_id_native"
+	}, {
+		"x": 4,
+		"y": "deep_link"
 	}],
 	"c": "AppName",
 	"d": "AppVersionName",
