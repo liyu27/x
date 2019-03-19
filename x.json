@@ -15,5 +15,6 @@
 	}],
 	"c": "AppName",
 	"d": "AppVersionName",
-	"e": ""
+	"e": "",
+	"f": "app_id"
 }
